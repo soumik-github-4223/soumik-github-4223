@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumik Saha
 - 👀 I’m interested in developing new, unique and useful projects
-- 🌱 I’m currently learning frontend web development(HTML,CSS,Java Script)
+- 🌱 I have learned frontend web development(HTML,CSS,Java Script) and one framework(REACT.JS) and backend technologies(Node.Js, Express.Js) and database(MongoDb)
 - 💞️ I’m looking to collaborate on open source 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Working with great technologies is really enjoyable for me
