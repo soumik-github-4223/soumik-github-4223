@@ -32,6 +32,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soumik-github-4223&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-github-4223&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 📊 LeetCode Stats
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/soumik_leetcode?ext=contest)
+<br><br>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soumik-github-4223&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
