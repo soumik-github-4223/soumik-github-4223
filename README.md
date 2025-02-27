@@ -20,10 +20,10 @@
     <img src="https://img.shields.io/badge/Leetcode-white?style=flat-square&logo=Leetcode&logoColor=black" alt="Leetcode" height="30" width="100"/></a>
 <a href="https://auth.geeksforgeeks.org/user/soumiksaha_gfg" target="blank">
     <img src="https://img.shields.io/badge/GeeksForGeeks-white?style=flat-square&logo=GeeksForGeeks&logoColor=green" alt="GeeksForGeeks" height="30" width="120"/></a>
-<a href="https://www.codechef.com/users/soumik_9444" target="blank">
+<!-- <a href="https://www.codechef.com/users/soumik_9444" target="blank">
     <img src="https://img.shields.io/badge/Codechef-white?style=flat-square&logo=Codechef&logoColor=black" alt="Codechef" height="30" width="100"/></a>
 <a href="https://codeforces.com/profile/soumik_9444" target="blank">
-    <img src="https://img.shields.io/badge/Codeforces-white?style=flat-square&logo=Codeforces&logoColor=blue" alt="Codeforces" height="30" width="100"/></a>
+    <img src="https://img.shields.io/badge/Codeforces-white?style=flat-square&logo=Codeforces&logoColor=blue" alt="Codeforces" height="30" width="100"/></a> -->
 </p>
 
 
