@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=soumik-github-4223&icon=0&color=13)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on a LMS platform <br>🌱 I’m currently learning Typescript<br>💬 Ask me about Python, C, C++, NextJs 14, TailwindCSS, React, Node js, Express Js, MongoDB<br>
+🔭 I have interned with Accenture and built multiple personal real world projects with complex functionalities which helped me write good quality code, build scalable product and implement security features to protect the apps. <br>💬 Ask me about Python, C, C++, NextJs 14, TailwindCSS, React, Node js, Express Js, MongoDB<br>
 
 ## ✏️ Reach out to me: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:soumiksaha4223@gmail.com)
