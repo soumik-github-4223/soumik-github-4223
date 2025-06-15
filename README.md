@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumik Saha</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=soumik-github-4223&icon=0&color=13)](https://visitcount.itsvg.in)
 # 💫 About Me:
